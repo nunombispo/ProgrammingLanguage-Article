@@ -1,6 +1,8 @@
-# ProgrammingLanguage-Article
+# Write a Programming Language in a Weekend (Seriously) With Python  
 
 This project demonstrates a simple programming language pipeline in Python, including a tokenizer, parser, and interpreter.
+
+If this script was useful to you, consider donating to support the Developer Service Blog: https://buy.stripe.com/bIYdTrggi5lZamkdQW
 
 ## Features
 
